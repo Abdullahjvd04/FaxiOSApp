@@ -1,0 +1,16 @@
+PODS:
+  - CropViewController (3.1.1)
+
+DEPENDENCIES:
+  - CropViewController
+
+SPEC REPOS:
+  trunk:
+    - CropViewController
+
+SPEC CHECKSUMS:
+  CropViewController: af08195d81dc2b8e5778b1361c03986c2f0b50f9
+
+PODFILE CHECKSUM: 380f3dc4bfd054701d5568f5528d7962db478b17
+
+COCOAPODS: 1.16.2

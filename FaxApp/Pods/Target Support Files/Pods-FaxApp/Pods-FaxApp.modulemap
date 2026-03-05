@@ -1,0 +1,6 @@
+framework module Pods_FaxApp {
+  umbrella header "Pods-FaxApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
